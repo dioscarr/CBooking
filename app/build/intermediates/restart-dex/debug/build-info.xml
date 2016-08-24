@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="560dpi"
+    density="xxxhdpi"
     format="7"
-    timestamp="29144122569727"
-    token="-7630556057332268022" >
+    timestamp="16033743387346"
+    token="-9024381784589254554" >
 
     <task
         name="javac"
-        duration="694" />
+        duration="4825" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="420" />
+        duration="940" />
     <task
         name="verifier"
-        duration="25" />
+        duration="63" />
 
     <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv3/CBooking/app/build/outputs/apk/app-debug.apk"
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="29144122569727" >
+    <build timestamp="16033743387346" >
         <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/cbookingv3/CBooking/app/build/outputs/apk/app-debug.apk"
+            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
