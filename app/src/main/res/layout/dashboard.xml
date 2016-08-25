@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#2c2c2c"
+    android:background="#1d9a8c"
     android:contextClickable="false"
     tools:targetApi="m">
 
@@ -17,6 +17,7 @@
         android:layout_height="wrap_content">
 
         <include android:id="@+id/app_bar" layout="@layout/app_bar"/>
+
     </LinearLayout>
 
 
@@ -52,9 +53,10 @@
                 android:layout_weight="0.79"
                 android:textColor="@android:color/black"
                 android:gravity="center_vertical|center_horizontal"
-                android:textSize="52dp"
+                android:textSize="52sp"
                 android:typeface="normal"
-                android:paddingBottom="10dp" />
+                android:paddingBottom="10dp"
+                android:textIsSelectable="true" />
 
 
             <de.hdodenhof.circleimageview.CircleImageView

@@ -22,11 +22,13 @@ public class settings extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_settings);
         toolbar = (Toolbar) findViewById(R.id.app_bar);
+        toolbar.setTitleTextColor(0XFFFFFF);
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle("Settings");
-        getSupportActionBar().setSubtitle("SubTitle");
         getSupportActionBar().setIcon(R.drawable.ic_action_name);
         getSupportActionBar().setHomeButtonEnabled(true);
+
+
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 

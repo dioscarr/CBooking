@@ -34,6 +34,7 @@ public class dashboard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashboard);
         toolbar = (Toolbar) findViewById(R.id.app_bar); //Toolbar
+        toolbar.setTitleTextColor(0XF2F2F2);
         setSupportActionBar(toolbar); //Toolbar
         getSupportActionBar().setTitle("dashboard"); //Toolbar
         getSupportActionBar().setSubtitle("SubTitle"); //Toolbar
@@ -43,7 +44,7 @@ public class dashboard extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Launching the calendar activity
-                Intent intent = new Intent(dashboard.this, calendar.class);
+                Intent intent = new Intent(dashboard.this, timeselect.class);
                 startActivity(intent);
                // finish();
             }
