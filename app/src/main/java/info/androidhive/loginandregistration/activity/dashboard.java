@@ -34,10 +34,11 @@ public class dashboard extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dashboard);
         toolbar = (Toolbar) findViewById(R.id.app_bar); //Toolbar
-        toolbar.setTitleTextColor(0XF2F2F2);
+        toolbar.setTitleTextColor(0xFFFFFFFF);
+        toolbar.setSubtitleTextColor(0xffcccccc);
         setSupportActionBar(toolbar); //Toolbar
-        getSupportActionBar().setTitle("dashboard"); //Toolbar
-        getSupportActionBar().setSubtitle("SubTitle"); //Toolbar
+        getSupportActionBar().setTitle("Welcome"); //Toolbar
+        getSupportActionBar().setSubtitle("Home"); //Toolbar
         getSupportActionBar().setIcon(R.drawable.ic_action_name);//Toolbar
         View gotocalendar = (View)findViewById(R.id.goToCalendarId);
         gotocalendar.setOnClickListener(new View.OnClickListener() {

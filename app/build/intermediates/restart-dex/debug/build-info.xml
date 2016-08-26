@@ -4,56 +4,35 @@
     api-level="23"
     density="560dpi"
     format="7"
-    timestamp="32613578147655"
-    token="-9024381784589254554"
-    verifier="FIELD_TYPE_CHANGE" >
+    timestamp="178588534406746"
+    token="-9024381784589254554" >
 
     <task
         name="javac"
-        duration="1012" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="126" />
+        duration="0" />
     <task
         name="verifier"
-        duration="33" />
+        duration="0" />
 
     <artifact
-        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="30948956852518" >
+    <build timestamp="177955638582942" >
         <artifact
             location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="32373777969712"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="32503489694420" >
+    <build timestamp="178588534406746" >
         <artifact
             location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
-    </build>
-    <build
-        timestamp="32613578147655"
-        verifier="FIELD_TYPE_CHANGE" >
-        <artifact
-            location="/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

@@ -7,6 +7,7 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/leventeal</item>
     </style>
 
     <!--&lt;!&ndash; Application theme. &ndash;&gt;-->
@@ -21,8 +22,28 @@
 
     <style name="Levenheading"></style>
 
+    <style name="LevenRecords" parent="AppBaseTheme" >
+        <item name="colorPrimaryDark">@color/levenblk</item>
+        <item name="colorPrimary">@android:color/background_dark</item>
+        <item name="colorAccent">@color/leventeal</item>
+        <item name="android:colorForeground">@color/levenwht</item>
+        <item name="android:textColorPrimary">@android:color/secondary_text_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+        <item name="android:titleTextStyle">@color/levenwht</item>
+        <item name="android:title"></item>
+    </style>
+
     <!--<style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
 
     <!--<style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+    <!--<style name="CustomActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">-->
+        <!--<item name="android:background">@android:color/holo_blue_dark</item>-->
+        <!--<item name="android:titleTextStyle">@style/CustomTextColor</item>-->
+    <!--</style>-->
+
+    <!--<style name="CustomTextColor" parent="AppBaseTheme">-->
+        <!--<item name="android:textColor">@android:color/white</item>-->
+    <!--</style>-->
 
 </resources>

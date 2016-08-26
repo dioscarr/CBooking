@@ -6,4 +6,21 @@
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
+
+    <style name="LevenRecords" parent="AppBaseTheme">
+        <item name="colorPrimaryDark">@color/levenblk</item>
+        <item name="colorPrimary">@android:color/background_dark</item>
+        <item name="colorAccent">@color/leventeal</item>
+        <item name="android:colorForeground">@color/levenwht</item>
+        <item name="android:navigationBarColor">@color/levenblk</item>
+        <item name="android:textColorPrimary">@android:color/secondary_text_light</item>
+        <item name="android:colorBackground">@color/background_material_dark</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/leventeal</item>
+        <item name="android:navigationBarColor">@color/levenblk</item>
+    </style>
 </resources>

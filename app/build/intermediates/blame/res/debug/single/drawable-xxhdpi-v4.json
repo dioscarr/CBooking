@@ -84,12 +84,12 @@
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_android_black_24dp.png",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/src/main/res/drawable-xxhdpi/ic_android_black_24dp.png"
-    },
-    {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_android_black_24dp.png",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/src/main/res/drawable-xxhdpi/ic_android_black_24dp.png"
     },
     {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_check_circle_black_24dp.png",

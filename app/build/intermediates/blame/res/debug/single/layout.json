@@ -40,12 +40,12 @@
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/src/main/res/layout/activity_register.xml"
     },
     {
-        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/layout/toolbaricon.xml",
         "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/src/main/res/layout/toolbaricon.xml"
+    },
+    {
+        "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/Users/dionelrodriguez/AndroidStudioProjects/LeveRecordsAppv1/CBooking/app/build/intermediates/res/merged/debug/layout/activity_calendar.xml",
